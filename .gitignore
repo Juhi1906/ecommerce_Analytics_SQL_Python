@@ -1,0 +1,8 @@
+Data/ecommerce_data.csv    
+Images/* 
+.csv.db                  
+.ipynb_checkpoints/        
+__pycache__/               
+venv/                      
+*.pyc                      
+                 
